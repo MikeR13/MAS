@@ -1,0 +1,17 @@
+ch.sbb.rcsd.client.dispositions.ui
+ch.sbb.rcsd.client.bahnhofinfo.ui
+ch.sbb.rcsd.client.zwl.ui
+ch.sbb.rcsd.client.editor.ui
+ch.sbb.rcsd.client.hgbp.ui
+ch.sbb.rcsd.client.hgbp.editor.ui
+ch.sbb.rcsd.client.zaf.ui
+ch.sbb.rcsd.client.ssp.ui
+ch.sbb.rcsd.client.ui.theme
+ch.sbb.rcsd.client.zwl.ui
+ch.sbb.rcsd.client.workbench
+ch.sbb.rcsd.client.sound.ui
+ch.sbb.rcsd.client.rtviewer
+ch.sbb.rcsd.client.bta.ui
+
+
+ch.sbb.hot.client.sharedmodel
