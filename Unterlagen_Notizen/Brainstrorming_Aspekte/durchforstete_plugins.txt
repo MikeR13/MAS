@@ -12,6 +12,6 @@ ch.sbb.rcsd.client.workbench
 ch.sbb.rcsd.client.sound.ui
 ch.sbb.rcsd.client.rtviewer
 ch.sbb.rcsd.client.bta.ui
-
+ch.sbb.rcsd.client.einschraenkungen 
 
 ch.sbb.hot.client.sharedmodel
